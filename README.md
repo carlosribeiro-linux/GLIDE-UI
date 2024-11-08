@@ -3,28 +3,12 @@
 - SPDX-License-Identifier: CC0-1.0
 -->
 
-# Plasma Mobile
+# Glide UI 
 
-This repository contains shell components for Plasma Mobile.
+This repository contains shell components for Glide UI base on Plasma Mobile.
 
-* Project page: [plasma-mobile.org](https://plasma-mobile.org)
-* Repository: [invent.kde.org/plasma/plasma-mobile](https://invent.kde.org/plasma/plasma-mobile)
-* Documentation: [invent.kde.org/plasma/plasma-mobile/-/wikis/home](https://invent.kde.org/plasma/plasma-mobile/-/wikis/home)
-* Development channel: [matrix.to/#/#plasmamobile:matrix.org](https://matrix.to/#/#plasmamobile:matrix.org)
 
-### Reporting issues
-* How to report issues: [invent.kde.org/plasma/plasma-mobile/-/wikis/Issue-Tracking](https://invent.kde.org/plasma/plasma-mobile/-/wikis/Issue-Tracking)
-* Shell issue tracker: [invent.kde.org/plasma/plasma-mobile/-/issues](https://invent.kde.org/plasma/plasma-mobile/-/issues)
-* General issue tracker: [https://invent.kde.org/teams/plasma-mobile/issues/-/issues](https://invent.kde.org/teams/plasma-mobile/issues/-/issues)
 
-### Locations
-* [components/mobileshell](components/mobileshell) - private shell component library (API not guaranteed to be stable!)
-* [containments](containments) - shell panels (homescreens, status bar, task panel)
-* [kcms](kcms) - settings module
-* [look-and-feel](look-and-feel/contents) - Plasma look-and-feel packages (ex. lockscreen, logout, etc.)
-* [shell](shell) - Plasma shell package, provides implementations for applet and containment configuration dialogs
-* [quicksettings](quicksettings) - quick settings packages for the action drawer
-* [tests](tests) - small runnable snippets that can be used to test parts of the shell without loading all of Plasma
 
 <img src="/screenshots/homescreen-folio.png" width=300px/>
 <img src="/screenshots/homescreen-halcyon.png" width=300px/>
